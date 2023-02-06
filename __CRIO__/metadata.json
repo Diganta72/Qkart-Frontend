@@ -1,0 +1,18 @@
+[
+  {
+    "module_id": "ME_QTRIPSTATIC_MODULE_LAYOUT",
+    "me_id": "ME_QTRIPSTATIC"
+  },
+  {
+    "module_id": "ME_QTRIPSTATIC_MODULE_CARDS",
+    "me_id": "ME_QTRIPSTATIC"
+  },
+  {
+    "module_id": "ME_QTRIPSTATIC_MODULE_ADVENTURE_DETAILS",
+    "me_id": "ME_QTRIPSTATIC"
+  },
+  {
+    "module_id": "ME_QTRIPSTATIC_MODULE_DEPLOYMENT",
+    "me_id": "ME_QTRIPSTATIC"
+  }
+]
